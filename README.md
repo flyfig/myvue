@@ -1,11 +1,21 @@
 # myvue
-vue工程，vue练习
 
-2019年3月25日21:09:24
+> A Vue.js project
 
-git init 
+## Build Setup
 
-git add .
-git commit -m"xxx"
+``` bash
+# install dependencies
+npm install
 
-git push 
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
